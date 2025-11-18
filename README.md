@@ -3,6 +3,7 @@
 meu nome é isabel gomes
 
 -estou me desenvolvendo na linguagem javaScript
+
 -estou conhecendo um pouco de python tambem
 
 -ultilizo esse espaço para minha organização e compartinhamento dos meus projetos desenvolvidos
